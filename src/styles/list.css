@@ -1,0 +1,37 @@
+.list{
+    position: absolute;
+    top:120px;
+    left:15px;
+    padding : 10px;
+    width: 65%;
+    text-align: left;
+}
+
+.list__indv{
+    margin-top : 20px;
+}
+
+.list__name{
+    
+    display: inline-block;
+    width : 15%;
+    margin-right : 20%;
+    margin-left : 0;
+}
+.list__number{
+    display: inline-block;
+    width : 15%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.list__delete{
+    background-color: 	red;
+    color: white;
+    height : 35px;
+    width : 70px;
+    padding : 4px;
+    border: none;
+    outline : none;
+    border-radius: 2px;
+}
